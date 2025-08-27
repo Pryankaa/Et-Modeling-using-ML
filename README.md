@@ -29,6 +29,12 @@ The study aims to compare model performance and identify the best-performing app
 
 ---
 
+## Project Directory
+- Result_ETr 2022-2023_Hourly.xlsx : Database
+- Evapotranspiration_codefile.ipynb : Code file
+
+---
+
 ## How to Run
 ### 1. Clone the repository
 ```bash
@@ -40,3 +46,4 @@ pip install -r requirements.txt
 
 ### 3. Launch Jupyter
 jupyter notebook Evapotranspiration_codefile.ipynb
+
